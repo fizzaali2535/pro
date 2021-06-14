@@ -18,6 +18,11 @@
 
                     
 <a href="{{url('/users')}}"> visit users list </a>
+
+
+<a href="{{url('/page')}}"> pages </a>
+
+
                 </div>
             </div>
         </div>
